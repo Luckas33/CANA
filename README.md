@@ -1,4 +1,4 @@
-# CANA - Construção de Algoritmos e Notação Assintótica
+# CANA - Construção e análise de Algoritmos
 
 Este repositório contém implementações e estudos sobre **notação assintótica** e **algoritmos de ordenação**. Ele é organizado em tópicos para facilitar o aprendizado e a aplicação dos conceitos.
 
